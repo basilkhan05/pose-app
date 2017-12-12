@@ -447,6 +447,7 @@ transform:translateY(0);
 
 .tour .btn i,
 .sub-form .btn i { padding-left: .5em; }
+.sub-form  img { max-width: 300px; }
 
 /* ==========================================================================
    10.Pricing
